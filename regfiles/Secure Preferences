@@ -1,0 +1,1682 @@
+{
+    "browser": {
+        "show_home_button": true
+    },
+    "edge_fundamentals_appdefaults": {
+        "ess_lightweight_version": 101
+    },
+    "ess_kv_states": {
+        "restore_on_startup": {
+            "closed_notification": false,
+            "decrypt_success": true,
+            "key": "restore_on_startup",
+            "notification_popup_count": 0
+        },
+        "startup_urls": {
+            "closed_notification": false,
+            "decrypt_success": true,
+            "key": "startup_urls",
+            "notification_popup_count": 0
+        },
+        "template_url_data": {
+            "closed_notification": false,
+            "decrypt_success": true,
+            "key": "template_url_data",
+            "notification_popup_count": 0
+        }
+    },
+    "extensions": {
+        "settings": {
+            "ahfgeienlihckogmohjhadlkjgocpleb": {
+                "active_permissions": {
+                    "api": [
+                        "management",
+                        "system.display",
+                        "system.storage",
+                        "webstorePrivate",
+                        "system.cpu",
+                        "system.memory",
+                        "system.network"
+                    ],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "app_launcher_ordinal": "t",
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [],
+                "first_install_time": "13353562891623005",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353562891623005",
+                "location": 5,
+                "manifest": {
+                    "app": {
+                        "launch": {
+                            "web_url": "https://chrome.google.com/webstore"
+                        },
+                        "urls": [
+                            "https://chrome.google.com/webstore"
+                        ]
+                    },
+                    "description": "Discover extensions for Microsoft Edge.",
+                    "icons": {
+                        "128": "webstore_icon_128.png",
+                        "16": "webstore_icon_16.png"
+                    },
+                    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCtl3tO0osjuzRsf6xtD2SKxPlTfuoy7AWoObysitBPvH5fE1NaAA1/2JkPWkVDhdLBWLaIBPYeXbzlHp3y4Vv/4XG+aN5qFE3z+1RU/NqkzVYHtIpVScf3DjTYtKVL66mzVGijSoAIwbFCC3LpGdaoe6Q1rSRDp76wR6jjFzsYwQIDAQAB",
+                    "name": "Web Store",
+                    "permissions": [
+                        "webstorePrivate",
+                        "management",
+                        "system.cpu",
+                        "system.display",
+                        "system.memory",
+                        "system.network",
+                        "system.storage"
+                    ],
+                    "version": "0.2"
+                },
+                "needs_sync": true,
+                "page_ordinal": "n",
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\122.0.2365.52\\resources\\web_store",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "ahokoikenoafgppiblgpenaaaolecifn": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "ampmimodbocknpfehkbdjolnnbongejb": {
+                "state": 1
+            },
+            "bhmhibnbialendcafinliemndanacfaj": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "bobbggphonhgdonfdibkfipfepfcildj": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "ceaifoolopnigfpidlheoagpheiplgii": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "cjneempfhkonkkbcmnfdibgobmhbagaj": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "dabfebgaghanlbehmkmaflipiohdimmc": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "dcaajljecejllikfgbhjdgeognacjkkp": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "dgiklkfkllikcanfonkcabmbdfmgleag": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [],
+                "first_install_time": "13353551355455190",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353551355455190",
+                "location": 5,
+                "manifest": {
+                    "content_capabilities": {
+                        "include_globs": [
+                            "https://*excel.officeapps.live.com/*",
+                            "https://*onenote.officeapps.live.com/*",
+                            "https://*powerpoint.officeapps.live.com/*",
+                            "https://*word-edit.officeapps.live.com/*",
+                            "https://*excel.partner.officewebapps.cn/*",
+                            "https://*onenote.partner.officewebapps.cn/*",
+                            "https://*powerpoint.partner.officewebapps.cn/*",
+                            "https://*word-edit.partner.officewebapps.cn/*",
+                            "https://*excel.gov.online.office365.us/*",
+                            "https://*onenote.gov.online.office365.us/*",
+                            "https://*powerpoint.gov.online.office365.us/*",
+                            "https://*word-edit.gov.online.office365.us/*",
+                            "https://*excel.dod.online.office365.us/*",
+                            "https://*onenote.dod.online.office365.us/*",
+                            "https://*powerpoint.dod.online.office365.us/*",
+                            "https://*word-edit.dod.online.office365.us/*",
+                            "https://*visio.partner.officewebapps.cn/*",
+                            "https://*visio.gov.online.office365.us/*",
+                            "https://*visio.dod.online.office365.us/*"
+                        ],
+                        "matches": [
+                            "https://*.officeapps.live.com/*",
+                            "https://*.partner.officewebapps.cn/*",
+                            "https://*.gov.online.office365.us/*",
+                            "https://*.dod.online.office365.us/*",
+                            "https://*.app.whiteboard.microsoft.com/*",
+                            "https://*.whiteboard.office.com/*",
+                            "https://*.app.int.whiteboard.microsoft.com/*",
+                            "https://*.whiteboard.office365.us/*"
+                        ],
+                        "permissions": [
+                            "clipboardRead",
+                            "clipboardWrite"
+                        ]
+                    },
+                    "default_locale": "en",
+                    "description": "This extension grants Microsoft web sites permission to read and write from the clipboard.",
+                    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCz4t/X7GeuP6GBpjmxndrjtzF//4CWeHlC68rkoV7hP3h5Ka6eX7ZMNlYJkSjmB5iRmPHO5kR1y7rGY8JXnRPDQh/CQNLVA7OsKeV6w+UO+vx8KGI+TrTAhzH8YGcMIsxsUjxtC4cBmprja+xDr0zVp2EMgqHu+GBKgwSRHTkDuwIDAQAB",
+                    "manifest_version": 2,
+                    "minimum_chrome_version": "77",
+                    "name": "Microsoft Clipboard Extension",
+                    "version": "1.0"
+                },
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\100.0.1185.36\\resources\\edge_clipboard",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "dmbljphlfghcnbohaoffiedmodfmkmol": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "ehlmnljdoejdahfjdfobmpfancoibmig": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "eijpepilkjkofamihbmjcnihgpbebafj": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "enkoeamdnimieoooocohgbdajhhkajko": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "fikbjbembnmfhppjfnmfkahdhfohhjmg": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [],
+                "first_install_time": "13353551355455634",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353551355455634",
+                "location": 5,
+                "manifest": {
+                    "background": {
+                        "persistent": false,
+                        "scripts": [
+                            "background.js"
+                        ]
+                    },
+                    "externally_connectable": {
+                        "matches": [
+                            "https://*.microsoftstream.com/*"
+                        ]
+                    },
+                    "incognito": "split",
+                    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsAmDrYmQaYQlLxSAn/jTQTGNt1IffJGIJeKucE/B42d8QIyFD2RCarmHP1bmbY1YuTng2dL3J//qyvUNwXPt9cmxH9WKwi512tzOa5r2zYaCuOgP2vAIrah/bKnpO3XmUfFWj+LRcbZahOmMDMQxzPKxFKuIz2eOiakBXDE6Ok7azHJ13LLQTte1JgZIPmyFrAciPABLp/IKLfsfnebVW1YgaOyxBNyp/7bhSmoyZI3kBv8InKOpGE8pttrBg6l5zkvD67a7ViNAYkqZIpJJV5ZTQtVWCWSG0xU2y+3zXZtx8KbGbDiWUAcwNYDVPpsV+IQXVpgAplHvrZme+hAl6QIDAQAB",
+                    "manifest_version": 2,
+                    "name": "Media Internals Services Extension",
+                    "permissions": [
+                        "mediaInternalsPrivate"
+                    ],
+                    "version": "2.0.0"
+                },
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\100.0.1185.36\\resources\\media_internals_services",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "fjngpfnaikknjdhkckmncgicobbkcnle": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "gbihlnbpmfkodghomcinpblknjhneknc": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "gbmoeijgfngecijpcnbooedokgafmmji": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "gcinnojdebelpnodghnoicmcdmamjoch": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "gecfnmoodchdkebjjffmdcmeghkflpib": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "gekagaaiohabmaknhkbaofhhedhelemf": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "ghbmnnjooekpmoecnnnilnnbdlolhkhi": {
+                "ack_external": true,
+                "active_bit": false,
+                "active_permissions": {
+                    "api": [
+                        "alarms",
+                        "storage",
+                        "unlimitedStorage",
+                        "offscreen"
+                    ],
+                    "explicit_host": [
+                        "https://docs.google.com/*",
+                        "https://drive.google.com/*"
+                    ],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "allowlist": 1,
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1048713,
+                "disable_reasons": 134217728,
+                "edge_last_update_check_time": "13382231365942199",
+                "first_install_time": "13353563151905163",
+                "from_webstore": true,
+                "granted_permissions": {
+                    "api": [
+                        "alarms",
+                        "storage",
+                        "unlimitedStorage",
+                        "offscreen"
+                    ],
+                    "explicit_host": [
+                        "https://docs.google.com/*",
+                        "https://drive.google.com/*"
+                    ],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13380837612691411",
+                "location": 6,
+                "manifest": {
+                    "author": {
+                        "email": "docs-hosted-app-own@google.com"
+                    },
+                    "background": {
+                        "service_worker": "service_worker_bin_prod.js"
+                    },
+                    "content_capabilities": {
+                        "matches": [
+                            "https://docs.google.com/*",
+                            "https://drive.google.com/*",
+                            "https://drive-autopush.corp.google.com/*",
+                            "https://drive-daily-0.corp.google.com/*",
+                            "https://drive-daily-1.corp.google.com/*",
+                            "https://drive-daily-2.corp.google.com/*",
+                            "https://drive-daily-3.corp.google.com/*",
+                            "https://drive-daily-4.corp.google.com/*",
+                            "https://drive-daily-5.corp.google.com/*",
+                            "https://drive-daily-6.corp.google.com/*",
+                            "https://drive-preprod.corp.google.com/*",
+                            "https://drive-staging.corp.google.com/*"
+                        ],
+                        "permissions": [
+                            "clipboardRead",
+                            "clipboardWrite",
+                            "unlimitedStorage"
+                        ]
+                    },
+                    "content_security_policy": {
+                        "extension_pages": "script-src 'self'; object-src 'self'"
+                    },
+                    "current_locale": "en_US",
+                    "default_locale": "en_US",
+                    "description": "Edit, create, and view your documents, spreadsheets, and presentations — all without internet access.",
+                    "differential_fingerprint": "1.71006a5311819fef45c659428944897184880bcdb571bf68c52b3d6ee97682ff",
+                    "externally_connectable": {
+                        "matches": [
+                            "https://docs.google.com/*",
+                            "https://drive.google.com/*",
+                            "https://drive-autopush.corp.google.com/*",
+                            "https://drive-daily-0.corp.google.com/*",
+                            "https://drive-daily-1.corp.google.com/*",
+                            "https://drive-daily-2.corp.google.com/*",
+                            "https://drive-daily-3.corp.google.com/*",
+                            "https://drive-daily-4.corp.google.com/*",
+                            "https://drive-daily-5.corp.google.com/*",
+                            "https://drive-daily-6.corp.google.com/*",
+                            "https://drive-preprod.corp.google.com/*",
+                            "https://drive-staging.corp.google.com/*"
+                        ]
+                    },
+                    "host_permissions": [
+                        "https://docs.google.com/*",
+                        "https://drive.google.com/*"
+                    ],
+                    "icons": {
+                        "128": "128.png"
+                    },
+                    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnF7RGLAxIon0/XeNZ4MLdP3DMkoORzEAKVg0sb89JpA/W2osTHr91Wqwdc9lW0mFcSpCYS9Y3e7cUMFo/M2ETASIuZncMiUzX2/0rrWtGQ3UuEj3KSe5PdaVZfisyJw/FebvHwirEWrhqcgzVUj9fL9YjE0G45d1zMKcc1umKvLqPyTznNuKBZ9GJREdGLRJCBmUgCkI8iwtwC+QZTUppmaD50/ksnEUXv+QkgGN07/KoNA5oAgo49Jf1XBoMv4QXtVZQlBYZl84zAsI82hb63a6Gu29U/4qMWDdI7+3Ne5TRvo6Zi3EI4M2NQNplJhik105qrz+eTLJJxvf4slrWwIDAQAB",
+                    "manifest_version": 3,
+                    "minimum_chrome_version": "88",
+                    "name": "Google Docs Offline",
+                    "permissions": [
+                        "alarms",
+                        "storage",
+                        "unlimitedStorage",
+                        "offscreen"
+                    ],
+                    "storage": {
+                        "managed_schema": "dasherSettingSchema.json"
+                    },
+                    "update_url": "https://clients2.google.com/service/update2/crx",
+                    "version": "1.85.1",
+                    "web_accessible_resources": [
+                        {
+                            "matches": [
+                                "\u003Call_urls>"
+                            ],
+                            "resources": [
+                                "page_embed_script.js"
+                            ]
+                        }
+                    ]
+                },
+                "path": "ghbmnnjooekpmoecnnnilnnbdlolhkhi\\1.85.1_0",
+                "pending_on_installed_event_dispatch_info": {
+                    "previous_version": "1.73.6"
+                },
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 0,
+                "was_installed_by_default": true,
+                "was_installed_by_oem": false,
+                "withholding_permissions": false
+            },
+            "ghglcnachgghkhbafjogogiggghcpjig": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "hciemgmhplhpinoohcjpafmncmjapioh": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "hfmgbegjielnmfghmoohgmplnpeehike": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "hloomjjkinpbjldhobfkfdamkmikjmdo": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "hmlhageoffiiefnmojcgoagebofoifpl": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "iglcjdemknebjbklcgkfaebgojjphkec": {
+                "active_permissions": {
+                    "api": [
+                        "identity",
+                        "management",
+                        "metricsPrivate",
+                        "webstorePrivate",
+                        "hubPrivate"
+                    ],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "app_launcher_ordinal": "n",
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [],
+                "first_install_time": "13353551355454987",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353551355454987",
+                "location": 5,
+                "manifest": {
+                    "app": {
+                        "launch": {
+                            "web_url": "https://microsoftedge.microsoft.com"
+                        },
+                        "urls": [
+                            "https://microsoftedge.microsoft.com"
+                        ]
+                    },
+                    "description": "Discover extensions for Microsoft Edge.",
+                    "icons": {
+                        "128": "webstore_icon_128.png",
+                        "16": "webstore_icon_16.png"
+                    },
+                    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtMvN4+y6cd3el/A/NT5eUnrz1WiD1WJRaJfMBvaMtJHIuFGEmYdYL/YuE74J19+pwhjOHeFZ3XUSMTdOa5moOaXXvdMr5wWaaN2frHewtAnNDO64NGbbZvdsfGm/kRkHKVGNV6dacZsAkylcz5CkwTmq97wOZ7ETaShHvhZEGwRQIt4K1poxurOkDYQw9ERZNf3fgYJ9ZTrLZMAFDLJY+uSF03pClWrr8VGc8LUQ4Naktb8QSgVUlrS14AdF/ESdbhnTvvdB0e7peNWRyoNtCqLJsbtTtBL6sOnqfusnwPowuueOFI+XskOT9TvLo6PcgxhLX5+d0mM+Jtn6PFTU8QIDAQAB",
+                    "name": "Microsoft Store",
+                    "permissions": [
+                        "webstorePrivate",
+                        "management",
+                        "metricsPrivate",
+                        "identity"
+                    ],
+                    "version": "0.2"
+                },
+                "needs_sync": true,
+                "page_ordinal": "n",
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\100.0.1185.36\\resources\\microsoft_web_store",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "ihmafllikibpmigkcoadcmckbfhibefp": {
+                "active_permissions": {
+                    "api": [
+                        "debugger",
+                        "feedbackPrivate",
+                        "fileSystem",
+                        "app.window.fullscreen",
+                        "metricsPrivate",
+                        "storage",
+                        "tabs",
+                        "fileSystem.readFullPath",
+                        "edgeInternetConnectivityPrivate"
+                    ],
+                    "explicit_host": [
+                        "edge://resources/*"
+                    ],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [
+                    "edgeFeedbackPrivate.onFeedbackRequested"
+                ],
+                "first_install_time": "13353551355455463",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353551355455463",
+                "location": 5,
+                "manifest": {
+                    "app": {
+                        "background": {
+                            "scripts": [
+                                "js/event_handler.js"
+                            ]
+                        },
+                        "content_security_policy": "default-src 'none'; script-src 'self' blob: filesystem: chrome://resources; style-src 'unsafe-inline' blob: chrome: file: filesystem: data: *; img-src * blob: chrome: file: filesystem: data:; media-src 'self' blob: filesystem:; connect-src data:"
+                    },
+                    "description": "User feedback extension",
+                    "display_in_launcher": false,
+                    "display_in_new_tab_page": false,
+                    "icons": {
+                        "128": "images/icon128.png",
+                        "16": "images/icon16.png",
+                        "192": "images/icon192.png",
+                        "32": "images/icon32.png",
+                        "48": "images/icon48.png"
+                    },
+                    "incognito": "split",
+                    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl3vxWwvLjcMIFK4OfG6C8PmJkMhFYDKRnx+SqG23YlMG1A+bOkiNmAN1TWpFPPp1f2PpbiZGNq1y29u/QfkD+PC4bnO7GbNw/2X5tGoP0n2K+KGGAxhnr0ki/oyo2eiFGSTOXlQvTRo5q1vB+Lbg+9TbFsWKlHZyAkeZ/YGz/iijHTqw8Q4RWdl5Tp8SlUhS/92EsWhveNJLW22veaT/Up2iSeSSwfyoHVYy8LUPaD4fbyLvPQacVLJq1dac2bNDqjaNvSPgPWCnkZtDmawZrgxT53otLCES/e96xfAf8I24VHIc1pVP8LqdqKr1AV1Yxn93h3VJ2QejtEhIAWHU6QIDAQAB",
+                    "manifest_version": 2,
+                    "name": "Edge Feedback",
+                    "permissions": [
+                        "chrome://resources/",
+                        "debugger",
+                        "feedbackPrivate",
+                        {
+                            "fileSystem": [
+                                "readFullPath"
+                            ]
+                        },
+                        "fullscreen",
+                        "metricsPrivate",
+                        "storage"
+                    ],
+                    "version": "1.0.0.1"
+                },
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\100.0.1185.36\\resources\\edge_feedback",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "running": false,
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "jbleckejnaboogigodiafflhkajdmpcl": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "jdiccldimpdaibmpdkjnbmckianbfold": {
+                "active_permissions": {
+                    "api": [
+                        "activeTab",
+                        "metricsPrivate",
+                        "storage",
+                        "systemPrivate",
+                        "ttsEngine",
+                        "errorReporting"
+                    ],
+                    "explicit_host": [
+                        "https://*.bing.com/*"
+                    ],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [
+                    "ttsEngine.onPause",
+                    "ttsEngine.onResume",
+                    "ttsEngine.onSpeak",
+                    "ttsEngine.onStop"
+                ],
+                "first_install_time": "13353551355455911",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353551355455911",
+                "location": 5,
+                "manifest": {
+                    "background": {
+                        "persistent": false,
+                        "scripts": [
+                            "lifetimeHelper.js",
+                            "telemetryHelper.js",
+                            "errorHelper.js",
+                            "voiceList/voiceListRequester.js",
+                            "voiceList/voiceListSingleton.js",
+                            "voiceList/voiceModel.js",
+                            "manifestHelper.js",
+                            "config.js",
+                            "ssml.js",
+                            "uuid.js",
+                            "wordBoundary.js",
+                            "audioStreamer.js",
+                            "wordBoundaryEventManager.js",
+                            "audioViewModel.js",
+                            "background.js"
+                        ]
+                    },
+                    "description": "Provides access to Microsoft's online text-to-speech voices",
+                    "key": "AAAAB3NzaC1yc2EAAAADAQABAAAAgQDjGOAV6/3fmEtQmFqlmqm5cZ+jlNhd6XikwMDp0I7BKh+AjG3aBIG/qqwlsF/7LAGatnSxBwUwZC0qMnGXtcOPVl26Q8OvMx0gt5Va5gxca+ae0Skluj9WN9TNxPFVhw21WbCt4D9q3kb+XXDlx/7v1ktYus4Fwr/skkjADG9cIQ==",
+                    "manifest_version": 2,
+                    "name": "Microsoft Voices",
+                    "permissions": [
+                        "activeTab",
+                        "errorReporting",
+                        "metricsPrivate",
+                        "storage",
+                        "systemPrivate",
+                        "ttsEngine",
+                        "https://*.bing.com/"
+                    ],
+                    "tts_engine": {
+                        "voices": [
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "en-US",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (en-US, AriaNeural)",
+                                "voice_name": "Microsoft Aria Online (Natural) - English (United States)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "en-US",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (en-US, GuyNeural)",
+                                "voice_name": "Microsoft Guy Online (Natural) - English (United States)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "zh-CN",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (zh-CN, XiaoxiaoNeural)",
+                                "voice_name": "Microsoft Xiaoxiao Online (Natural) - Chinese (Mainland)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "zh-CN",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (zh-CN, YunyangNeural)",
+                                "voice_name": "Microsoft Yunyang Online (Natural) - Chinese (Mainland)"
+                            },
+                            {
+                                "codec": "audio-16khz-32kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "zh-TW",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (zh-TW, HanHanRUS)",
+                                "voice_name": "Microsoft HanHan Online - Chinese (Taiwan)"
+                            },
+                            {
+                                "codec": "audio-16khz-32kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "zh-HK",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (zh-HK, TracyRUS)",
+                                "voice_name": "Microsoft Tracy Online - Chinese (Hong Kong)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "ja-JP",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (ja-JP, NanamiNeural)",
+                                "voice_name": "Microsoft Nanami Online (Natural) - Japanese (Japan)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "en-GB",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (en-GB, LibbyNeural)",
+                                "voice_name": "Microsoft Libby Online (Natural) - English (United Kingdom)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "pt-BR",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (pt-BR, FranciscaNeural)",
+                                "voice_name": "Microsoft Francisca Online (Natural) - Portuguese (Brazil)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "es-MX",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (es-MX, DaliaNeural)",
+                                "voice_name": "Microsoft Dalia Online (Natural) - Spanish (Mexico)"
+                            },
+                            {
+                                "codec": "audio-16khz-32kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "en-IN",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (en-IN, PriyaRUS)",
+                                "voice_name": "Microsoft Priya Online - English (India)"
+                            },
+                            {
+                                "codec": "audio-16khz-32kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "en-CA",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (en-CA, HeatherRUS)",
+                                "voice_name": "Microsoft Heather Online - English (Canada)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "fr-CA",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (fr-CA, SylvieNeural)",
+                                "voice_name": "Microsoft Sylvie Online (Natural) - French (Canada)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "fr-FR",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (fr-FR, DeniseNeural)",
+                                "voice_name": "Microsoft Denise Online (Natural) - French (France)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "de-DE",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (de-DE, KatjaNeural)",
+                                "voice_name": "Microsoft Katja Online (Natural) - German (Germany)"
+                            },
+                            {
+                                "codec": "audio-16khz-32kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "ru-RU",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (ru-RU, EkaterinaRUS)",
+                                "voice_name": "Microsoft Ekaterina Online - Russian (Russia)"
+                            },
+                            {
+                                "codec": "audio-16khz-32kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "en-AU",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (en-AU, HayleyRUS)",
+                                "voice_name": "Microsoft Hayley Online - English (Australia)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "it-IT",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (it-IT, ElsaNeural)",
+                                "voice_name": "Microsoft Elsa Online (Natural) - Italian (Italy)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "ko-KR",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (ko-KR, SunHiNeural)",
+                                "voice_name": "Microsoft SunHi Online (Natural) - Korean (Korea)"
+                            },
+                            {
+                                "codec": "audio-16khz-32kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "nl-NL",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (nl-NL, HannaRUS)",
+                                "voice_name": "Microsoft Hanna Online - Dutch (Netherlands)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "es-ES",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (es-ES, ElviraNeural)",
+                                "voice_name": "Microsoft Elvira Online (Natural) - Spanish (Spain)"
+                            },
+                            {
+                                "codec": "audio-24khz-48kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "tr-TR",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (tr-TR, EmelNeural)",
+                                "voice_name": "Microsoft Emel Online (Natural) - Turkish (Turkey)"
+                            },
+                            {
+                                "codec": "audio-16khz-32kbitrate-mono-mp3",
+                                "event_types": [
+                                    "end",
+                                    "error",
+                                    "start",
+                                    "word"
+                                ],
+                                "lang": "pl-PL",
+                                "remote": true,
+                                "server_name": "Microsoft Server Speech Text to Speech Voice (pl-PL, PaulinaRUS)",
+                                "voice_name": "Microsoft Paulina Online - Polish (Poland)"
+                            }
+                        ]
+                    },
+                    "version": "1.0"
+                },
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\100.0.1185.36\\resources\\microsoft_voices",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "jlipacegilfgfpgkefbjcncbfcoeecgj": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "jmjflgjpcpepeafmmgdpfkogkghcpiha": {
+                "ack_external": true,
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": [
+                        "https://chrome.google.com/webstore/*",
+                        "https://chromewebstore.google.com/*"
+                    ]
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 8321,
+                "edge_last_update_check_time": "13382234553668951",
+                "events": [],
+                "first_install_time": "13353563151315367",
+                "from_webstore": false,
+                "granted_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": [
+                        "https://chrome.google.com/webstore/*",
+                        "https://chromewebstore.google.com/*"
+                    ]
+                },
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353563151315367",
+                "lastpingday": "13382150399957107",
+                "location": 10,
+                "manifest": {
+                    "content_scripts": [
+                        {
+                            "js": [
+                                "content.js"
+                            ],
+                            "matches": [
+                                "https://chrome.google.com/webstore/*"
+                            ]
+                        },
+                        {
+                            "js": [
+                                "content_new.js"
+                            ],
+                            "matches": [
+                                "https://chromewebstore.google.com/*"
+                            ]
+                        }
+                    ],
+                    "description": "Edge relevant text changes on select websites to improve user experience and precisely surfaces the action they want to take.",
+                    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu06p2Mjoy6yJDUUjCe8Hnqvtmjll73XqcbylxFZZWe+MCEAEK+1D0Nxrp0+IuWJL02CU3jbuR5KrJYoezA36M1oSGY5lIF/9NhXWEx5GrosxcBjxqEsdWv/eDoOOEbIvIO0ziMv7T1SUnmAA07wwq8DXWYuwlkZU/PA0Mxx0aNZ5+QyMfYqRmMpwxkwPG8gyU7kmacxgCY1v7PmmZo1vSIEOBYrxl064w5Q6s/dpalSJM9qeRnvRMLsszGY/J2bjQ1F0O2JfIlBjCOUg/89+U8ZJ1mObOFrKO4um8QnenXtH0WGmsvb5qBNrvbWNPuFgr2+w5JYlpSQ+O8zUCb8QZwIDAQAB",
+                    "manifest_version": 3,
+                    "name": "Edge relevant text changes",
+                    "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+                    "version": "1.2.1"
+                },
+                "path": "jmjflgjpcpepeafmmgdpfkogkghcpiha\\1.2.1_0",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": true,
+                "was_installed_by_oem": false
+            },
+            "jpfjdekhebcolnfkpicpciaknbgcdcbm": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "kfihiegbjaloebkmglnjnljoljgkkchm": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "khffkadolmfbdgahbabbhipadklfmhgf": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "kjncpkplfnolibapodobnnjfgmjmiaba": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "kkobcodijbdelbnhbfkkfncbeildnpie": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "kmendfapggjehodndflmmgagdbamhnfd": {
+                "active_permissions": {
+                    "api": [
+                        "cryptotokenPrivate",
+                        "externally_connectable.all_urls",
+                        "tabs"
+                    ],
+                    "explicit_host": [
+                        "http://*/*",
+                        "https://*/*"
+                    ],
+                    "manifest_permissions": []
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [
+                    "runtime.onConnectExternal"
+                ],
+                "first_install_time": "13353551355456097",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353551355456097",
+                "location": 5,
+                "manifest": {
+                    "background": {
+                        "persistent": false,
+                        "scripts": [
+                            "util.js",
+                            "b64.js",
+                            "cbor.js",
+                            "sha256.js",
+                            "timer.js",
+                            "countdown.js",
+                            "countdowntimer.js",
+                            "devicestatuscodes.js",
+                            "approvedorigins.js",
+                            "errorcodes.js",
+                            "webrequest.js",
+                            "messagetypes.js",
+                            "factoryregistry.js",
+                            "requesthelper.js",
+                            "asn1.js",
+                            "enroller.js",
+                            "requestqueue.js",
+                            "signer.js",
+                            "origincheck.js",
+                            "textfetcher.js",
+                            "appid.js",
+                            "watchdog.js",
+                            "logging.js",
+                            "webrequestsender.js",
+                            "window-timer.js",
+                            "cryptotokenorigincheck.js",
+                            "cryptotokenapprovedorigins.js",
+                            "inherits.js",
+                            "individualattest.js",
+                            "googlecorpindividualattest.js",
+                            "cryptotokenbackground.js"
+                        ]
+                    },
+                    "description": "CryptoToken Component Extension",
+                    "externally_connectable": {
+                        "ids": [
+                            "fjajfjhkeibgmiggdfehjplbhmfkialk"
+                        ],
+                        "matches": [
+                            "https://*/*"
+                        ]
+                    },
+                    "incognito": "split",
+                    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq7zRobvA+AVlvNqkHSSVhh1sEWsHSqz4oR/XptkDe/Cz3+gW9ZGumZ20NCHjaac8j1iiesdigp8B1LJsd/2WWv2Dbnto4f8GrQ5MVphKyQ9WJHwejEHN2K4vzrTcwaXqv5BSTXwxlxS/mXCmXskTfryKTLuYrcHEWK8fCHb+0gvr8b/kvsi75A1aMmb6nUnFJvETmCkOCPNX5CHTdy634Ts/x0fLhRuPlahk63rdf7agxQv5viVjQFk+tbgv6aa9kdSd11Js/RZ9yZjrFgHOBWgP4jTBqud4+HUglrzu8qynFipyNRLCZsaxhm+NItTyNgesxLdxZcwOz56KD1Q4IQIDAQAB",
+                    "manifest_version": 2,
+                    "name": "CryptoTokenExtension",
+                    "permissions": [
+                        "cryptotokenPrivate",
+                        "externally_connectable.all_urls",
+                        "tabs",
+                        "https://*/*",
+                        "http://*/*"
+                    ],
+                    "version": "0.9.74"
+                },
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\100.0.1185.36\\resources\\cryptotoken",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "kmojgmpmopiiagdfbilgognmlegkonbk": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "mhjfbmdgcfjbbpaeojofohoefgiehjai": {
+                "active_permissions": {
+                    "api": [
+                        "contentSettings",
+                        "fileSystem",
+                        "fileSystem.write",
+                        "metricsPrivate",
+                        "tabs",
+                        "resourcesPrivate",
+                        "pdfViewerPrivate",
+                        "fileSystem.readFullPath",
+                        "errorReporting",
+                        "edgeLearningToolsPrivate",
+                        "fileSystem.getCurrentEntry",
+                        "edgePdfPrivate",
+                        "edgeCertVerifierPrivate"
+                    ],
+                    "explicit_host": [
+                        "edge://resources/*",
+                        "edge://webui-test/*"
+                    ],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [],
+                "first_install_time": "13353551355454207",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353551355454207",
+                "location": 5,
+                "manifest": {
+                    "content_security_policy": "script-src 'self' 'wasm-eval' blob: filesystem: chrome://resources; object-src * blob: externalfile: file: filesystem: data:",
+                    "description": "",
+                    "incognito": "split",
+                    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDN6hM0rsDYGbzQPQfOygqlRtQgKUXMfnSjhIBL7LnReAVBEd7ZmKtyN2qmSasMl4HZpMhVe2rPWVVwBDl6iyNE/Kok6E6v6V3vCLGsOpQAuuNVye/3QxzIldzG/jQAdWZiyXReRVapOhZtLjGfywCvlWq7Sl/e3sbc0vWybSDI2QIDAQAB",
+                    "manifest_version": 2,
+                    "mime_types": [
+                        "application/pdf"
+                    ],
+                    "mime_types_handler": "edge_pdf/index.html",
+                    "name": "Microsoft Edge PDF Viewer",
+                    "offline_enabled": true,
+                    "permissions": [
+                        "errorReporting",
+                        "chrome://resources/",
+                        "contentSettings",
+                        "metricsPrivate",
+                        "edgeLearningToolsPrivate",
+                        "resourcesPrivate",
+                        "tabs",
+                        {
+                            "fileSystem": [
+                                "write",
+                                "readFullPath",
+                                "getCurrentEntry"
+                            ]
+                        }
+                    ],
+                    "version": "1"
+                },
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\100.0.1185.36\\resources\\edge_pdf",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "ncbjelpjchkpbikbpkcchkhkblodoama": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [],
+                "first_install_time": "13353551355455749",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13353551355455749",
+                "location": 5,
+                "manifest": {
+                    "background": {
+                        "persistent": false,
+                        "scripts": [
+                            "background.js"
+                        ]
+                    },
+                    "externally_connectable": {
+                        "matches": [
+                            "https://*.teams.microsoft.com/*",
+                            "https://*.skype.com/*",
+                            "https://*.teams.live.com/*"
+                        ]
+                    },
+                    "incognito": "split",
+                    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtAdFAR3ckd5c7G8VSzUj4Ltt/QRInUOD00StG95LweksGcLBlFlYL46cHFVgHHj1gmzcpBtgsURdcrAC3V8yiE7GY4wtpOP+9l+adUGR+cyOG0mw9fLjyH+2Il0QqktsNXzkNiE1ogW4l0h4+PJc262j0vtm4hBzMvR0QScFWcAIcAErlUiWTt4jefXCAYqubV99ed5MvVMWBxe97wOa9hYwAhbCminOepA4RRTg9eyi0TiuHpq/bNI8C5qZgKIQNBAjgiFBaIx9hiMBFlK4NHUbFdgY6Qp/hSCMNurctwz1jpsXEnT4eHg1YWXfquoH8s4swIjkFCMBF6Ejc3cUkQIDAQAB",
+                    "manifest_version": 2,
+                    "name": "WebRTC Internals Extension",
+                    "permissions": [
+                        "webrtcInternalsPrivate"
+                    ],
+                    "version": "2.0.2"
+                },
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\100.0.1185.36\\resources\\webrtc_internals",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "nkbndigcebkoaejohleckhekfmcecfja": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "nkeimhogjdpnpccoofpliimaahmaaome": {
+                "account_extension_type": 0,
+                "active_permissions": {
+                    "api": [
+                        "processes",
+                        "webrtcLoggingPrivate",
+                        "system.cpu",
+                        "enterprise.hardwarePlatform"
+                    ],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "commands": {},
+                "content_settings": [],
+                "creation_flags": 1,
+                "events": [
+                    "runtime.onConnectExternal"
+                ],
+                "first_install_time": "13353551355455321",
+                "from_webstore": false,
+                "incognito_content_settings": [],
+                "incognito_preferences": {},
+                "last_update_time": "13380837694480274",
+                "location": 5,
+                "manifest": {
+                    "background": {
+                        "page": "background.html",
+                        "persistent": false
+                    },
+                    "externally_connectable": {
+                        "matches": [
+                            "https://*.teams.microsoft.com/*",
+                            "https://*.teams.live.com/*",
+                            "https://*.skype.com/*"
+                        ]
+                    },
+                    "incognito": "split",
+                    "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDAQt2ZDdPfoSe/JI6ID5bgLHRCnCu9T36aYczmhw/tnv6QZB2I6WnOCMZXJZlRdqWc7w9jo4BWhYS50Vb4weMfh/I0On7VcRwJUgfAxW2cHB+EkmtI1v4v/OU24OqIa1Nmv9uRVeX0GjhQukdLNhAE6ACWooaf5kqKlCeK+1GOkQIDAQAB",
+                    "manifest_version": 2,
+                    "name": "WebRTC Extension",
+                    "permissions": [
+                        "enterprise.hardwarePlatform",
+                        "processes",
+                        "system.cpu",
+                        "webrtcLoggingPrivate"
+                    ],
+                    "version": "1.3.22"
+                },
+                "path": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\131.0.2903.112\\resources\\hangout_services",
+                "preferences": {},
+                "regular_only_preferences": {},
+                "state": 1,
+                "was_installed_by_default": false,
+                "was_installed_by_oem": false
+            },
+            "nnpnekncnhiglbokoiffmejlimgmgoam": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "ofefcgjbeghpigppfmkologfjadafddi": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "olkdlefmaniacnmgofabnpmomgcpdaip": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "olmhchkiafniffcaiciiomfdplnmklak": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "pencekojiebcjhifbkfdncgmmooepclc": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            },
+            "ppnnjfpaneghjbcepgedmlcgmfgkjhah": {
+                "active_permissions": {
+                    "api": [],
+                    "explicit_host": [],
+                    "manifest_permissions": [],
+                    "scriptable_host": []
+                },
+                "disable_reasons": 8192,
+                "state": 0
+            }
+        }
+    },
+    "homepage": "https://google.com/",
+    "homepage_is_newtabpage": false,
+    "media": {
+        "cdm": {
+            "origin_data": {}
+        }
+    },
+    "pinned_tabs": [],
+    "protection": {
+        "macs": {
+            "browser": {
+                "show_home_button": "406C38BDAB5D625302CD1C938CEF649BF1A23825BD5005C9C672735AD8443CDB"
+            },
+            "default_search_provider_data": {
+                "template_url_data": "8BF7A2A109230B4D4E6F227356328B92A12C85F3C3F8571FFB5C0247B7913C34"
+            },
+            "edge": {
+                "services": {
+                    "account_id": "998E8E2526D067056F0E546C1996D5249CC789339E22B07835C449B512D3AA5A",
+                    "last_account_id": "9C9282698D78DE77864AF3F4D58F8AC0BB410A4DA9AEA2075FBE5FC7BFD86F80",
+                    "last_username": "325B6D9A4DC469C763B1C74ADD39FD2DFA3198C374FFA572C026FD27B7A88D8D"
+                }
+            },
+            "enterprise_signin": {
+                "policy_recovery_token": "C796BF5DA1BF9B859764A7F4441C1281E74ACEBA34E750765DF6E3BD28E77AA1"
+            },
+            "extensions": {
+                "settings": {
+                    "ahfgeienlihckogmohjhadlkjgocpleb": "B71126E36984DD05BC57DBBC9C2237E9A962A5D7D170368AA052D383C473B1B5",
+                    "ahokoikenoafgppiblgpenaaaolecifn": "4549D3B75EF7547FBDA28EC5C9BAB6E290D9FF25A4ECFC4C85CC50D8BF1CFE1E",
+                    "ampmimodbocknpfehkbdjolnnbongejb": "CD379F4F05F372461BE1DB3FE0DF60D6B0F23D1676D0EA28430D8FC1412BFC72",
+                    "bhmhibnbialendcafinliemndanacfaj": "AC8017BC822474565F0BE6C3F43D65E9B2C67B96FF9DF1CD29BFABA340D48B7F",
+                    "bobbggphonhgdonfdibkfipfepfcildj": "99389D7DD315D66261D269740F924CC7BECE9C7D9363646BF3AFB56C06C51EE8",
+                    "ceaifoolopnigfpidlheoagpheiplgii": "DA3F010DD7EEE85703977E9D45E0CA0B628DA4C454A150B3C47C69483FC5421E",
+                    "cjneempfhkonkkbcmnfdibgobmhbagaj": "FDC1415D2A00C7E9F0BF62DD24ED4E83546DE05A5157D5B5EA2EBB3DCBC50BA7",
+                    "dabfebgaghanlbehmkmaflipiohdimmc": "C76AB98EC48EE9DB36C56BCAD5CF802C6DDEFA98D9F8C81EDE37DB3BD79EC1CE",
+                    "dcaajljecejllikfgbhjdgeognacjkkp": "0B808B255E6584A501F5CFDE2736B824913BBAF0C50D8E7AF1E16DF3C7A67B6F",
+                    "dgiklkfkllikcanfonkcabmbdfmgleag": "42C438AE851C01FFB5B68AD9297BA373834B9035CD5DC51DA6479022A66431A5",
+                    "dmbljphlfghcnbohaoffiedmodfmkmol": "002C763766AEF2AAE4D6FA0C3016BB3CEC1E61E4ADC2DF3C8F14CD9A76EBB53B",
+                    "ehlmnljdoejdahfjdfobmpfancoibmig": "E9C09C8E822E3D8C2CE67A1C6BE383ADFBF30CF1AC2D0AD9D1B916E93ED955EE",
+                    "eijpepilkjkofamihbmjcnihgpbebafj": "6729940C219A51821287588A0D2A49EB23F855FCCA3074F9F09BAFC2E97EF201",
+                    "enkoeamdnimieoooocohgbdajhhkajko": "82D5D30D7A2C319E5B196F7EB4363181C0FBBD3A78129388E2277F40BA854A5C",
+                    "fikbjbembnmfhppjfnmfkahdhfohhjmg": "CB3BCB25FAB38CC55C9FDCAB17942BD34F16DD0F6D17C1FE2CB33A497DC92E3C",
+                    "fjngpfnaikknjdhkckmncgicobbkcnle": "125AC571D1AAEFCCD53E8847D2117168A46879BF929CFD170D71E9F78B9440E4",
+                    "gbihlnbpmfkodghomcinpblknjhneknc": "9097B5F04E7E94B61B1FF82815283A77C9DFD9841A66BEF3BDD4CDD70EC59362",
+                    "gbmoeijgfngecijpcnbooedokgafmmji": "653853868227A194E85E80A00A4F4DCB52BC48707339FC22F58DF7CEFD986A7B",
+                    "gcinnojdebelpnodghnoicmcdmamjoch": "E394258413335A0B1AA9AE66EC9E6CAD6B1E66D4840C0B67CBC9DD75B587A3EB",
+                    "gecfnmoodchdkebjjffmdcmeghkflpib": "CC827A9DA13977551D40604E23A74B247AF124BA848FAF3A7F1E5395C054239C",
+                    "gekagaaiohabmaknhkbaofhhedhelemf": "A793D79D952AD2A194401E3C8A90D91679840775E3BDA15358A15F1A10445D53",
+                    "ghbmnnjooekpmoecnnnilnnbdlolhkhi": "8E82A1C339596F6A3A600669B40CFCA6311BDEE9625CD3830082B17306FB0E50",
+                    "ghglcnachgghkhbafjogogiggghcpjig": "B61EB49284E03D63D502F10BA4C56979259DABBC4AE5AA0D28D2F9947901D7F9",
+                    "hciemgmhplhpinoohcjpafmncmjapioh": "E3AF85CB3EAE880C0A54DF8EC7231BCE0E02260C854B04BAB0F85439028D0347",
+                    "hfmgbegjielnmfghmoohgmplnpeehike": "828B1B6E4E1403F5FD53AEFB81B3542648160A9D7B34A1D340DA56F8F577DBFC",
+                    "hloomjjkinpbjldhobfkfdamkmikjmdo": "AB807085E177FB4CF20BFACE0630EF0CBFA6C16477248DD2B375C444072AC833",
+                    "hmlhageoffiiefnmojcgoagebofoifpl": "63F284424AB1DBD35FFB6B8EDCCDD3DE65DA8E4246C80B39E4895C76D9C296EB",
+                    "iglcjdemknebjbklcgkfaebgojjphkec": "A2F2CB93A119180E57194C82A8D2716951422ED4D4854E47594FE9D7AF34C406",
+                    "ihmafllikibpmigkcoadcmckbfhibefp": "24EE6DB7BCF3CC2CDB5EF911E5B46370D0A6840C9C890F678129D14120A11F92",
+                    "jbleckejnaboogigodiafflhkajdmpcl": "0E889F77C380B2480CB848A57DD84D1517973D246C093045DF0AEB23C0EDF2D7",
+                    "jdiccldimpdaibmpdkjnbmckianbfold": "CAA8CA838C00C6C5969C871BF033DA067CF9B3E7F8BCC39CC05063578A789CDA",
+                    "jlipacegilfgfpgkefbjcncbfcoeecgj": "697E26DF2BA7FDD73602B751782D2B573D24FFF968C34E0303C9B3C1C4704C44",
+                    "jmjflgjpcpepeafmmgdpfkogkghcpiha": "85E4432F4FB3EA61F8EEC2CE028928FD124610025F780491028AC01A5DBCF6B9",
+                    "jpfjdekhebcolnfkpicpciaknbgcdcbm": "AE2483712AE184BC95B7B96FDA638E06DDEA8E745314D5F671BFE490EC1094A8",
+                    "kfihiegbjaloebkmglnjnljoljgkkchm": "EE4AD80A309301E79229FEF24557362458D91F5A7CEC8451E7394FCD9BEF1389",
+                    "khffkadolmfbdgahbabbhipadklfmhgf": "7F24D452321E8FE0345E03DFA557A332B2DFCEBC4920FFA6C39DEB58C833373F",
+                    "kjncpkplfnolibapodobnnjfgmjmiaba": "BA85AD05BA450D45604FBF87D4027BBE412D9506AC096F36B4D1803D51CBA364",
+                    "kkobcodijbdelbnhbfkkfncbeildnpie": "6E1EF4FFD97993F28256BECA9B17B6F9C77A1DBE43CE656EAC47D94ACFACA67B",
+                    "kmendfapggjehodndflmmgagdbamhnfd": "B563F3141B9083AC081C065E9A10A4CBB877802DCD8CA72F9AE5340CCB0B8BD9",
+                    "kmojgmpmopiiagdfbilgognmlegkonbk": "F1017D61B07A5FDB921BB7A77CAC0B978F04184790B67773907FCCE7B70926B0",
+                    "mhjfbmdgcfjbbpaeojofohoefgiehjai": "8086C78DD0EC930CC554BA24141F3F4B0E3D97BB7B9E9498305E174BC513D4B6",
+                    "ncbjelpjchkpbikbpkcchkhkblodoama": "6AC343E462E457EC63B0674B3CC890D9938CA92F8A4F28A35B386A5C13C00068",
+                    "nkbndigcebkoaejohleckhekfmcecfja": "61CD4BBA6AB9D5DD1CE38F4E823064537872C097A31A0840EE6D514EA5D157AD",
+                    "nkeimhogjdpnpccoofpliimaahmaaome": "C40CF1F545292AB0F71B47C15D5A4DDE5FB442A68B83B0D3EF44101CF2C22FB0",
+                    "nnpnekncnhiglbokoiffmejlimgmgoam": "12B7064B0E79AB0FABD2499ECD7AD2425BF8EE10753D8037560295450E3DD807",
+                    "ofefcgjbeghpigppfmkologfjadafddi": "1EB6D8B7998E31D0ACBA5A29BB86E790BA5A06BDE53406A7CE63FC0A0DA62584",
+                    "olkdlefmaniacnmgofabnpmomgcpdaip": "BF333527F7F750EC14421D6FE525F8226707197D1B5A238B986F831D9FCFBFE4",
+                    "olmhchkiafniffcaiciiomfdplnmklak": "C87149C79F10979294944DFB3D47AB83BFD9B60D2C677C5515013276E5FF20EC",
+                    "pencekojiebcjhifbkfdncgmmooepclc": "DDE8A7ED0CC778DA95416FACB8AC4F74E8D1A8D5439F545F83704688C8D332DE",
+                    "ppnnjfpaneghjbcepgedmlcgmfgkjhah": "484E044D75E9A320E7ECA38E07BD5ABDD3A51D3BA68C151485D2B94824B0A650"
+                },
+                "ui": {
+                    "developer_mode": "75DB351805C129E3AC7ECCD797A9E27FCCE3F49CC13BF3913D46172EA249CEB5"
+                }
+            },
+            "google": {
+                "services": {
+                    "last_signed_in_username": "91CF52A1ED70147A2511E4246F0827349F560C777BA95E1F6F340C5519F3BA8B"
+                }
+            },
+            "homepage": "8401F9F4F19520C90677C86673294E195FE12567C94B1B4DAABE95E921F39DD5",
+            "homepage_is_newtabpage": "46F48F37F602A1F814F7A89DB736EDCC32F551EA51B9555694ADD119E39E53DF",
+            "media": {
+                "cdm": {
+                    "origin_data": "CFF204195582B3180F685E91888B89B35F823AFB5472EE4B8613A5F6DE965391"
+                },
+                "storage_id_salt": "2B52DDCCF424BF2D3F8331D31A05989D2ADCCA30C9D6C1EEC732BE8439B722D2"
+            },
+            "pinned_tabs": "B08055A0E34D8D4CE7E528D2BBC141C9F59529D675F871A5F327141244C7F9E2",
+            "prefs": {
+                "preference_reset_time": "68B1B911F0DC562240ED3F60F85B34C2E3E77840C60CF6F8A698E4817F1F63D3"
+            },
+            "safebrowsing": {
+                "incidents_sent": "C0BCEC2B75DB2A78912D06092A846742A1614C894CED3FE965E0764DFED11377"
+            },
+            "search_provider_overrides": "E84EAA8FD32697AE4A5FDF14301F73CF7B6164497F88503CC1BF5831925C7CF7",
+            "session": {
+                "restore_on_startup": "2AEC2789DFEB3C8BA2D374E7194DB9391462769882BC7E4D8F2B44087A7A0867",
+                "startup_urls": "FE88369A4242013E29C77FAF8DBBF81F9070CD47123419EC0594F8297CB43022"
+            }
+        },
+        "super_mac": "D5AF970B15C89EA6D0634F5D3FA67B9B6D8716AFB1239EB293CDAAF7706F4C58"
+    },
+    "session": {
+        "restore_on_startup": 4,
+        "restore_on_startup_edge_lightweight": "1086BE098DE968826905BA524CDC3B9DF14997433436E15322B5708443",
+        "restore_on_startup_edge_lightweight_verify": "b994212d54c72806d8cfbc181f0eba6f",
+        "startup_urls": [
+            "https://google.com/"
+        ],
+        "startup_urls_edge_lightweight": "433EE4618962DC3065B29CADB8E838623D8A97B5BCDC08A8B62514855C7DFB8ABA5B7BA74C10DA354C924E263FA7D7D8C03B48",
+        "startup_urls_edge_lightweight_verify": "6840d11c1ab111f7c69e458507949584"
+    }
+}
