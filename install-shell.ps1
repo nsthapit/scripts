@@ -86,3 +86,6 @@ New-ItemProperty -Path $registryPath -Name $propertyName -Value $propertyValue -
 
 #remove installer artifacts
 Remove-Item -force $destinationPath
+
+
+#removes files
