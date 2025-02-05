@@ -12,8 +12,7 @@ $ResolveWingetPath = Resolve-Path "C:\Program Files\WindowsApps\Microsoft.Deskto
 
 $config
 # cd $wingetpathexit
-#cmd.exe /c "
-winget.exe install Microsoft.DotNet.DesktopRuntime.$get_env --silent --accept-package-agreements --accept-source-agreements --force
+cmd.exe /c "winget.exe install Microsoft.DotNet.DesktopRuntime.$get_env --silent --accept-package-agreements --accept-source-agreements --force"
 
 write-host " Install .NET Runtime $get_env Complete" -ForegroundColor Green
 exit
